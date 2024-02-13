@@ -4,6 +4,10 @@
   }
 }
 
+.bla {
+  border: 2px solid blue;
+}
+
 .top-link {
   transition:       all .25s ease-in-out;
   position:         fixed;
