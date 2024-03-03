@@ -1,3 +1,23 @@
+# images
+<img alt="" src="https://i.imgur.com/r8OVc8o.png">
+<img alt="" src="https://i.imgur.com/uvTG4FM.png">
+<img alt="" src="https://i.imgur.com/hSFBKRG.png">
+<img alt="" src="https://i.imgur.com/caHE6W7.png">
+<img alt="" src="https://i.imgur.com/69hywbn.png">
+<img alt="" src="https://i.imgur.com/sLgtWCn.png">
+<img alt="" src="https://i.stack.imgur.com/uVRjY.png">
+
+# links
+https://www.mdpi.com/2079-9292/9/3/483
+https://hazelcast.com/glossary/machine-learning-inference/
+
+https://towardsdatascience.com/binary-and-multiclass-text-classification-auto-detection-in-a-model-test-pipeline-938158854943
+https://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+
+https://alexgude.com/blog/where-to-host-public-datasets/
+
+
+https://www.coursera.org/articles/google-sheets-vs-excel?trk_ref=articles_unified_description_page_recs_card
 ### cleanup VAERS dataset
 * figure out how to fetch dataset automatically
   - host on github in a dataset repo
