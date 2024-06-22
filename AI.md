@@ -25,6 +25,44 @@ https://www.coursera.org/articles/google-sheets-vs-excel?trk_ref=articles_unifie
 * identify people who took covid vaccines
 * parse pre-existing conditions
 
+
+# NLP
+  ## binary class
+    * machine learning
+      - Logistic regression
+      - Decision trees
+      - Random forests
+      - Support vector machines (SVM)
+      - Naive bayes
+      - k-NN
+      - Gradient boosting machine
+    * deep learning
+      - CNN
+      - RNN
+      - LSTM
+      - Fully connected networks (dense networks)
+      - transformers
+    * Hybrid methods
+      - Ensemble methods
+      - Hybrid models
+  
+  ## sentiment analysis
+    - Lexicon-based methods
+    * machine learning
+      - Naive bayes
+      - Support Vector machines
+      - Decision Trees
+      - Random forests
+      - Logistic regession
+    * Deep learning methods
+      - RNN
+      - LSTM
+      - CNN
+      - Transformers and BERT
+    * Hybrid methods
+    * Transfer learning
+
+
 ### COVID dataset for infection prediction
 * location (zip/city/state)
 * age
